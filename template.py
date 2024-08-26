@@ -10,7 +10,7 @@ list_of_files = [
     ".github/workflows/.gitkeep",
     "app/modelutils.py",
     "app/utils.py",
-    "data/datasets/",
+    "data/data.zip",
     "main.py",
     "Dockerfile",
     "requirements.txt",
